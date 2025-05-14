@@ -1,0 +1,2 @@
+ALTER TABLE sales_data
+MODIFY COLUMN Customer_ID INT FIRST;
