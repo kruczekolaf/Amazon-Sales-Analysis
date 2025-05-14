@@ -1,0 +1,10 @@
+*xlsx
+*.csv
+*.pptx
+*.doc
+*.pbi
+*~
+.DS_Store
+Thumbs.db
+*.mwb
+*.log
